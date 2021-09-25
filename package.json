@@ -1,0 +1,23 @@
+{
+  "name": "gado-verde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josellia/single-page-aplication-sem-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josellia/single-page-aplication-sem-framework/issues"
+  },
+  "homepage": "https://github.com/josellia/single-page-aplication-sem-framework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
